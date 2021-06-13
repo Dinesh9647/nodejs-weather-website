@@ -1,5 +1,3 @@
-console.log('Site is up on localhost server');
-
 document.querySelector('.weather-form').addEventListener('submit', (e) => {
     e.preventDefault();
     const address = document.querySelector('input').value;
