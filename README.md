@@ -1,0 +1,1 @@
+Simple website to get weather data of a location by providing an address.
